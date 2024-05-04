@@ -1,6 +1,1 @@
-{
-  "name": "ZAZU",
-  "symbol": "ZAZU",
-  "description": "",
-  "image": "https://raw.githubusercontent.com/roryrich/test/main/photo_2024-05-04%2001.42.15.jpeg"
-}
+{"name":"zazu","symbol":"zazu","description":"","image":"https://raw.githubusercontent.com/roryrich/test/main/photo_2024-05-04%2001.42.15.jpeg","tags":["CAT"],"extensions":{"website":"Zazu.CAT","twitter":"https://twitter.com/ZazuOnSol","telegram":"https://t.me/zazucommunity"}}
